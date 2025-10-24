@@ -48,10 +48,10 @@ profiles:
     url: https://orcid.org/0000-0003-0104-6644
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - AI x Weather Modeling
+  - AI x Ocean Modeling
+  - Numerical Weather Prediction
+  - High-Performance Computing
 
 education:
   - area: PhD Computer Science (AI Focus)
