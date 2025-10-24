@@ -54,7 +54,7 @@ interests:
   - High-Performance Computing
 
 education:
-  - area: MS Earth Science (Numerical Ocean Model Focus)
+  - area: MS Earth Science
     institution: Brown University
     icon: ""
     date_start: 2019-09-01
@@ -64,7 +64,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MS Environmental Science (Weather Model WRF Focus)
+  - area: MS Environmental Science
     institution: Hong Kong University of Science and Technology
     icon: ""
     date_start: 2017-09-01
