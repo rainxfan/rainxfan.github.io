@@ -27,7 +27,7 @@ marketing:
     baidu: ''
 
 favicon:
-  icon: 'static/uploads/logo.png'
+  icon: 'static/uploads/icon.png'
 
 # Site header
 header:
