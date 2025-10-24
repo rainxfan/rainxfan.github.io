@@ -169,4 +169,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Atmospheric and Ocean Modeling specialist with dual MSc degrees and a strong background in high-performance computing (HPC), numerical weather prediction, and coastal ocean simulations. Experienced in leading research projects using WRF, CROCO, and LES models, and currently supporting large-scale scientific workflows as a Research Computing Consultant at Brown University. Skilled in Linux cluster administration, software optimization, and user training, with a proven record of publishing in peer-reviewed journals and enhancing computational efficiency for geophysical modeling.
