@@ -27,7 +27,9 @@ role: Research Computing Consultant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Brown University - Office of Information Technology
+  - name: |
+      Brown University  
+      Office of Information Technology
     url: https://ccv.brown.edu/
 
 # Social network links
