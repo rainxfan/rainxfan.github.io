@@ -169,4 +169,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Atmospheric and Ocean Modeling 
+Atmospheric and Ocean Modeling specialist with dual MSc degrees and a strong background in high-performance computing (HPC), numerical weather prediction, and coastal ocean simulations. Experienced in leading research projects using WRF, CROCO, and LES models, and currently supporting large-scale scientific workflows as a Research Computing Consultant at Brown University. Skilled in Linux cluster administration, software optimization, and user training, with a proven record of publishing in peer-reviewed journals and enhancing computational efficiency for geophysical modeling.
