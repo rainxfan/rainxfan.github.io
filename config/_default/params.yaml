@@ -14,8 +14,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: 'HPC Engineer & Geoscience Modeler — WRF · CROCO · LES · Slurm · Linux · Python'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -26,6 +26,9 @@ marketing:
     google: ''
     baidu: ''
 
+favicon:
+  icon: 'uploads/icon.png'
+
 # Site header
 header:
   navbar:
@@ -35,14 +38,14 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: 'Your Name'
+      text: 'Xiaoyu Fan'
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Xiaoyu Fan. All rights reserved.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
