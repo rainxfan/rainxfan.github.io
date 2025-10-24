@@ -26,9 +26,6 @@ marketing:
     google: ''
     baidu: ''
 
-favicon:
-  icon: ''
-
 # Site header
 header:
   navbar:
@@ -43,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Xiaoyu Fan. Built with ❤️ in California'
+    notice: '© {year} Xiaoyu Fan. All rights reserved.'
     license:
       enable: false
       allow_derivatives: false
