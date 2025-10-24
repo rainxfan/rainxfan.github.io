@@ -90,7 +90,7 @@ work:
     icon: ''
     date_start: 2020-01-01
     date_end: ''
-    summary: |2-
+    summary: |
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
   - position: AI Research Intern
     company_name: OpenAI
