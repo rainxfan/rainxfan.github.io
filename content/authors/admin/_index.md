@@ -54,7 +54,7 @@ interests:
 education:
   - area: MS Earth Science
     institution: Brown University
-    icon: brown
+    icon: ''
     date_start: 2019-09-01
     date_end: 2022-08-30
     summary: |
