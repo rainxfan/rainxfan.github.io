@@ -27,9 +27,7 @@ role: Research Computing Consultant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: |
-      Brown University  
-      Office of Information Technology
+  - name: Brown University | Office of Information Technology
     url: https://ccv.brown.edu/
 
 # Social network links
@@ -56,7 +54,7 @@ interests:
 education:
   - area: MS Earth Science
     institution: Brown University
-    icon: ""
+    icon: brown
     date_start: 2019-09-01
     date_end: 2022-08-30
     summary: |
@@ -66,7 +64,7 @@ education:
       url: 'https://example.com/thesis.pdf'
   - area: MS Environmental Science
     institution: Hong Kong University of Science and Technology
-    icon: ""
+    icon: hkust
     date_start: 2017-09-01
     date_end: 2018-06-01
     summary: |
@@ -75,7 +73,7 @@ education:
       Specialized in machine learning and robotics.
   - area: BS Atmospheric Science
     institution: Zhejiang University
-    icon: ""
+    icon: zju
     date_start: 2013-09-01
     date_end: 2017-06-15
     summary: |
