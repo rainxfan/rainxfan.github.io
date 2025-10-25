@@ -64,7 +64,7 @@ education:
       url: 'https://example.com/thesis.pdf'
   - area: MS Environmental Science
     institution: Hong Kong University of Science and Technology
-    icon: hkust
+    icon: ''
     date_start: 2017-09-01
     date_end: 2018-06-01
     summary: |
