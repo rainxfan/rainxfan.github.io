@@ -73,7 +73,7 @@ education:
       Specialized in machine learning and robotics.
   - area: BS Atmospheric Science
     institution: Zhejiang University
-    icon: zju
+    icon: ''
     date_start: 2013-09-01
     date_end: 2017-06-15
     summary: |
