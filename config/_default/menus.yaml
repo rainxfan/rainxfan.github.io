@@ -16,3 +16,6 @@ main:
   - name: events
     url: events/
     weight: 15
+  - name: courses
+    url: courses/
+    weight: 16
