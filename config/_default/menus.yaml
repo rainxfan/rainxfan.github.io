@@ -13,3 +13,6 @@ main:
   - name: blog
     url: blog/
     weight: 14
+  - name: events
+    url: events/
+    weight: 15
