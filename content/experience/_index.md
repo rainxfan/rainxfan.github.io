@@ -8,7 +8,7 @@ design:
 
 cascade:
   - target:
-      path: '{/experience/*/**}'
+      path: '{/experience/**}'
     type: docs
     params:
       show_breadcrumb: true
