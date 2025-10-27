@@ -110,7 +110,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: HPC Skills
     items:
       - name: Python & PyTorch
         description: ''
@@ -124,7 +124,7 @@ skills:
         description: ''
         percent: 85
         icon: cloud
-  - name: Hobbies
+  - name: Earth Modeling Skills
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -144,8 +144,8 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: Chinese Madarin
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
