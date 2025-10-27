@@ -19,3 +19,6 @@ main:
   - name: courses
     url: courses/
     weight: 16
+  - name: publications
+    url: publications/
+    weight: 20
