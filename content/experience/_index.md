@@ -1,7 +1,7 @@
 ---
 title: 'Experience'
 date: 2023-10-24
-type: landing
+type: docs
 
 design:
   spacing: '5rem'
@@ -17,19 +17,6 @@ cascade:
 
 # Page sections
 sections:
-  - block: collection
-    id: experience
-    content:
-      title: Experience
-      filters:
-        kinds: ["page","section"]   
-      sort_by: "weight"             
-    design:
-      view: article-grid            
-      columns: 1
-      show_date: false
-      show_read_time: false
-      show_read_more: false
   - block: resume-experience
     content:
       username: admin
