@@ -6,13 +6,6 @@ type: docs
 design:
   spacing: '5rem'
 
-cascade:
-  - target:
-      path: '{/experience/**}'
-    type: docs
-    params:
-      show_breadcrumb: true
-
 # Note: `username` refers to the user's folder name in `content/authors/`
 
 # Page sections
