@@ -144,7 +144,7 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese Madarin
+  - name: Chinese Mandarin
     percent: 100
 
 # Awards.
