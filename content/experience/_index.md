@@ -1,17 +1,10 @@
 ---
 title: 'Experience'
-date: 2023-10-24
-type: docs
+date: 2025-10-27
+type: landing
 
 design:
   spacing: '5rem'
-
-cascade:
-  - target:
-      path: '{/experience/**}'
-    type: docs
-    params:
-      show_breadcrumb: true
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
