@@ -20,7 +20,7 @@ sections:
       is_education_first: false
   - block: resume-skills
     content:
-      title: "Interdisciplinary Skills"
+      title: 'Interdisciplinary Skills'
       username: admin
     design:
       show_skill_percentage: false
