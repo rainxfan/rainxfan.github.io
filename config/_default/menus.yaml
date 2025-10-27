@@ -7,19 +7,6 @@ main:
   - name: About
     url: /
     weight: 10
-  - name: blog
-    url: blog/
-    weight: 11
-  - name: events
-    url: events/
-    weight: 12
   - name: Projects
     url: projects/
     weight: 13
-  - name: publications
-    url: publications/
-    weight: 20
-  - name: courses
-    url: courses/
-    weight: 30
-    
