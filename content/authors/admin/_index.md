@@ -53,33 +53,33 @@ interests:
 
 education:
   - area: MS Earth Science
-    institution: Brown University
+    institution: Brown University - Department of Earth, Environmental & Planetary Sciences
     icon: ''
     date_start: 2019-09-01
     date_end: 2022-08-30
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Published paper on _Geoscientific Model Development_. Supervised by Prof. Baylor Fox-Kemper.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Environmental Science
-    institution: Hong Kong University of Science and Technology
+      url: 'https://gmd.copernicus.org/articles/17/4095/2024/'
+  - area: MS Environmental Science and Management
+    institution: The Hong Kong University of Science and Technology
     icon: ''
     date_start: 2017-09-01
     date_end: 2018-06-01
     summary: |
-      GPA: 4.0/4.0
+      Focus on hurricane research using the Weather Research and Forecasting (WRF) model.
 
-      Specialized in machine learning and robotics.
+      Specialized in Numerical Weather Prediction.
   - area: BS Atmospheric Science
     institution: Zhejiang University
     icon: ''
     date_start: 2013-09-01
     date_end: 2017-06-15
     summary: |
-      GPA: 3.9/4.0
+      GPA Top 15%
 
-      Minored in Mathematics. President of AI Club.
+      Outstanding Graduates Award
 
 work:
   - position: Senior AI Research Scientist
