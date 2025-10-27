@@ -27,7 +27,10 @@ role: Research Computing Consultant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Brown University - Office of Information Technology
+  - name: |
+      Brown University
+
+      Office of Information Technology
     url: https://ccv.brown.edu/
 
 # Social network links
@@ -53,7 +56,7 @@ interests:
 
 education:
   - area: MS Earth Science
-    institution: Brown University - Department of Earth, Environmental & Planetary Sciences
+    institution: Brown University
     icon: ''
     date_start: 2019-09-01
     date_end: 2022-08-30
@@ -68,9 +71,8 @@ education:
     date_start: 2017-09-01
     date_end: 2018-06-01
     summary: |
-      Focus on hurricane research using the Weather Research and Forecasting (WRF) model.
-
-      Specialized in Numerical Weather Prediction.
+      - Focus on hurricane research using the Weather Research and Forecasting (WRF) model.
+      - Specialized in Numerical Weather Prediction.
   - area: BS Atmospheric Science
     institution: Zhejiang University
     icon: ''
