@@ -19,7 +19,7 @@ main:
   - name: Interests
     url: interests/
     weight: 20
-  - name: Chords
-    url: chords/
-    weight: 30
+ # - name: Chords
+ #   url: chords/
+ #   weight: 30
     
