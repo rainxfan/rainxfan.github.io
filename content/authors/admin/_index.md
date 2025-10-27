@@ -27,10 +27,7 @@ role: Research Computing Consultant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: |
-      Brown University
-
-      Office of Information Technology
+  - name: Brown University | Office of Information Technology
     url: https://ccv.brown.edu/
 
 # Social network links
@@ -79,27 +76,36 @@ education:
     date_start: 2013-09-01
     date_end: 2017-06-15
     summary: |
-      GPA Top 15%
-
-      Outstanding Graduates Award
+      - Thesis about satellite hurricane precipitation analysis. 
+      - GPA Top 10%. 
+      - Outstanding Graduates Award. 
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Research Computing Consultant 
+    company_name: Brown University - Office of Information Technology
+    company_url: 'https://ccv.brown.edu/'
     icon: ''
-    date_start: 2020-01-01
+    date_start: 2022-09-01
     date_end: ''
     summary: |
-      Simple test description here.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      - Support over 5,000 researchers and 1,000 groups on the Oscar HPC cluster, managing software modules and providing user support for Python, R, MATLAB, VSCode, JupyterLab, and VNC.
+      - Administer 100+ Stronghold secure data platforms, ensuring compliance, security, and smooth research operations.
+  - position: Research Associate (Project Leader) 
+    company_name: Brown University - Department of Earth Sciences
+    company_url: 'https://deeps.brown.edu/'
     icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2019-09-01
+    date_end: 2022-08-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Led a coastal turbulence study comparing CROCO and NCAR-LES and mentored students in modeling and HPC.
+  - position: Intern
+    company_name: Meteorological Observatory of Zhejiang Province, China
+    company_url: ''
+    icon: ''
+    date_start: 2016-07-15
+    date_end: 2016-08-15
+    summary: |
+      Produced daily forecasts and typhoon tracking with 8 models, supporting disaster preparedness for floods, heatwaves, and storms.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
